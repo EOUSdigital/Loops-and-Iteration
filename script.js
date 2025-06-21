@@ -127,12 +127,14 @@ while (countdown >= 0) {
 //  🧠 Scenario: Ask user until they type "yes"
 //! (Simulated version – prompt() only works in browsers)
 
+/*
 let answer;
 
 do {
     answer = "no";                          //  imagine prompt("Say 'yes' to continue");
     console.log("You typed:", answer);
 } while (answer !== "yes");
+*/
 
 //? 🔍 Breakdown:
 //  • do { ... } while (...)                → Run the code block at least once, check condition after
